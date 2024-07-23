@@ -6,4 +6,7 @@ const poorUser = {
         return `My new balance is: ${this.balance+ balance}`;
     }
 }
+const data = {
+    date: "change"
+}
 }
